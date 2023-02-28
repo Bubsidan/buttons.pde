@@ -15,9 +15,8 @@ void draw() {
   //rect( X, Y, Width, Height );
   //
   //Stop Button
-  //rect();( X, Y, Width, Height ); //Layout
-  //triangle( X1, Y1, X2, Y2, X3, Y3 );
-  //triangle( X1, Y1, X2, Y2, X3, Y3 );
+  //rect();( X, Y, Width, Height ); //Layout?  //triangle( X1, Y1, X2, Y2, X3, Y3 ); //triangle( X1, Y1, X2, Y2, X3, Y3 );
+  //rect();( X, Y, Side, Side ); //Square shape
   //
   //Pause Button
   //rect();( X, Y, Width, Height ); //Layout
